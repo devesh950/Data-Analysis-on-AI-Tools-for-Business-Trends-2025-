@@ -1,0 +1,53 @@
+Date,Interest_Score,Notes
+2025-01-05,8,Early year baseline
+2025-01-12,8,Stable interest
+2025-01-19,11,Slight uptick
+2025-01-26,6,Post-Republic Day dip
+2025-02-02,8,February start
+2025-02-09,9,Steady growth
+2025-02-16,11,Valentine's business campaigns
+2025-02-23,12,Quarter-end business planning
+2025-03-02,6,Financial year-end preparation starts
+2025-03-09,8,Mid-March activity
+2025-03-16,7,Pre-tax season
+2025-03-23,8,End of Q4
+2025-03-30,8,Financial year closing
+2025-04-06,6,New financial year start
+2025-04-13,5,Post-tax season low
+2025-04-20,10,Mid-quarter pickup
+2025-04-27,8,Quarter stabilization
+2025-05-04,8,Early May
+2025-05-11,0,Data gap
+2025-05-18,8,Mid-May recovery
+2025-05-25,7,Month-end
+2025-06-01,33,Major spike - possible tech event or announcement
+2025-06-08,50,Peak period - major AI conference or product launch
+2025-06-15,32,Post-event sustained interest
+2025-06-22,16,Interest normalization
+2025-06-29,13,End of Q2
+2025-07-06,15,Budget 2025 related interest
+2025-07-13,24,Mid-budget season discussion
+2025-07-20,14,Post-budget stabilization
+2025-07-27,11,Month-end
+2025-08-03,18,Independence Day business planning
+2025-08-10,15,Mid-August
+2025-08-17,15,Stable period
+2025-08-24,13,End of August
+2025-08-31,13,Quarter-end Q3
+2025-09-07,13,September start
+2025-09-14,14,Mid-September
+2025-09-21,18,Festive season preparation
+2025-09-28,0,Data gap
+2025-10-05,9,Diwali preparation phase
+2025-10-12,12,Pre-Diwali business surge
+2025-10-19,6,Diwali week dip
+2025-10-26,40,Post-Diwali business acceleration
+2025-11-02,43,Q4 business planning intensifies
+2025-11-09,45,Year-end strategy discussions
+2025-11-16,53,Major growth - year-end budgeting
+2025-11-23,73,Significant spike - Black Friday business tech adoption
+2025-11-30,100,Peak interest - Cyber Monday + year-end planning
+2025-12-07,80,Sustained high interest
+2025-12-14,66,Year-end review period
+2025-12-21,59,Holiday season business wrapping
+2025-12-28,40,Year-end slowdown
